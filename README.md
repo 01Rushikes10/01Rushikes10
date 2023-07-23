@@ -1,4 +1,4 @@
-![logo](https://github.com/01Rushikes10/01Rushikes10/blob/main/wallpaperflare.com_wallpaper(1).jpg)
+![logo](https://github.com/01Rushikes10/01Rushikes10/blob/main/Untitled1.jpg)
 <h1 align="center">Hi 👋, I'm 01Rushikesh10</h1>
 <h3 align="center">A passionate Java full developer from India</h3>
 
