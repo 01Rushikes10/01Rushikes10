@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/01rushikes10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="01rushikes10" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/rushikesh972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rushikesh972" height="30" width="40" /></a> -->
 <a href="https://www.topcoder.com/members/rushikesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rushikesh01" height="30" width="40" /></a>
-<a href="https://discord.gg/rushikesh01#8111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rushikesh01#8111" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/rushikesh01#8111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rushikesh01#8111" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
