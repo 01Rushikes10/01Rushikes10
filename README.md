@@ -14,7 +14,9 @@
 <!-- <a href="https://twitter.com/@rushikeshn39281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rushikeshn39281" height="30" width="40" /></a> -->
 <!-- <a href="https://linkedin.com/in/rushikesh-nade-000708230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-nade-000708230" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22271968/rushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22271968/rushikesh" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/rushikesh8788" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rushikesh8788" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rushikesh8788" target="_blank" title="CodeChef">
+  <img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="rushikesh8788" height="30" width="40" />
+</a>
 <a href="https://www.hackerrank.com/rushikesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushikesh01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/01rushikes10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="01rushikes10" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/rushikesh972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rushikesh972" height="30" width="40" /></a> -->
