@@ -15,9 +15,7 @@
 <!-- <a href="https://linkedin.com/in/rushikesh-nade-000708230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-nade-000708230" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22271968/rushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22271968/rushikesh" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/rushikesh8788" target="_blank" title="CodeChef">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="30" width="40">
-    <path fill="#5B4638" d="M256 32C114.6 32 0 146.6 0 288s114.6 256 256 256 256-114.6 256-256S397.4 32 256 32zm0 96c70.7 0 128 57.3 128 128s-57.3 128-128 128-128-57.3-128-128 57.3-128 128-128z"/>
-  </svg>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rushikesh8788" height="30" width="40" />
 </a>
 
 <a href="https://www.hackerrank.com/rushikesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushikesh01" height="30" width="40" /></a>
