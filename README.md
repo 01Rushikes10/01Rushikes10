@@ -37,3 +37,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01rushikesh10&" alt="01rushikesh10" /></p>
 
+
+## 📈 GitHub Stats
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=01rushikesh10&show_icons=true&count_private=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01rushikesh10&layout=compact&hide=HTML" width="48%" />
+</p>
+
+## 🔖 Pinned Projects
+- **[github-bot](https://github.com/01rushikesh10/github-bot)** — small automation & scripts
+- **[project-2](https://github.com/01rushikesh10/project-2)** — description
+
+---
+
