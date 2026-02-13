@@ -35,8 +35,6 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=01rushikesh10&show_icons=true&count_private=true&theme=radical" width="48%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01rushikesh10&" alt="01rushikesh10" /></p>
-
 
 ![Followers](https://img.shields.io/github/followers/01rushikesh10?label=Follow&style=social)
 ![Top language](https://img.shields.io/badge/Top%20Langs-JavaScript-orange)
