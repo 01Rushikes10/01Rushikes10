@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
 <h3 align="center">Experienced Software Engineer | Building Scalable & High-Performance Systems</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=01rushikesh10&label=Profile%20views&color=0e75b6&style=flat" alt="01rushikesh10" /> </p>
 
+- 📫 How to reach me **naderushikesh2002@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01rushikes10&label=Profile%20views&color=0e75b6&style=flat" alt="01rushikes10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01rushikes10" alt="01rushikes10" /></a> </p>
