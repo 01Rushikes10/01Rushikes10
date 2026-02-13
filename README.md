@@ -1,4 +1,3 @@
-![logo](https://github.com/01Rushikes10/01Rushikes10/blob/main/Untitled1.jpg)
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
 <h3 align="center">Experienced Software Engineer | Building Scalable & High-Performance Systems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01rushikesh10&label=Profile%20views&color=0e75b6&style=flat" alt="01rushikesh10" /> </p>
